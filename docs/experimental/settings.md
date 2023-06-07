@@ -1,6 +1,6 @@
 # Settings
 
-This is an experimental feature that is available in both the UI and the API. It can be fund in the `Settings` tab in the UI.
+This is an experimental feature that is available in both the UI and the API. It can be found in the `Settings` tab in the UI.
 
 Settings are split into multiple categories:
 
@@ -17,5 +17,5 @@ Settings are not automatically saved. You need to click the `Save Settings` butt
 :::
 
 ::: warning
-When resetting the settings, the settings will be reset to the default values, but will once again need to be saved manully.
+When resetting the settings, the settings will be reset to the default values, but will once again need to be saved manually.
 :::
